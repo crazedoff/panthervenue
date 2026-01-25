@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home page -->
+  <url>
+    <loc>https://panthervenue.vercel.app/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- About page -->
+  <url>
+    <loc>https://panthervenue.vercel.app/about</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Events page -->
+  <url>
+    <loc>https://panthervenue.vercel.app/events</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Rent Venue page -->
+  <url>
+    <loc>https://panthervenue.vercel.app/rent-venue</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Log In page -->
+  <url>
+    <loc>https://panthervenue.vercel.app/login</loc>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
