@@ -7,27 +7,27 @@
   </url>
 
   <url>
-    <loc>https://panthervenue.vercel.app/event</loc>
+    <loc>https://panthervenue.vercel.app/event.html</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://panthervenue.vercel.app/gallery</loc>
+    <loc>https://panthervenue.vercel.app/gallery.html</loc>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://panthervenue.vercel.app/rent</loc>
+    <loc>https://panthervenue.vercel.app/rent.html</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://panthervenue.vercel.app/login</loc>
+    <loc>https://panthervenue.vercel.app/login.html</loc>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://panthervenue.vercel.app/viewer</loc>
+    <loc>https://panthervenue.vercel.app/viewer.html</loc>
     <priority>0.5</priority>
   </url>
 
